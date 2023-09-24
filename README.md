@@ -1,2 +1,2 @@
 # tap
-This is my solve to Coding Test
+This is my solve for Coding Test
